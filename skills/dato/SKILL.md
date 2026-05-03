@@ -2,6 +2,12 @@
 description: Datos publicos de Argentina procesables — estadísticas INDEC, resultados electorales, datos catastrales y jurisprudencia. Usar cuando el usuario pide datos oficiales, estadísticas o quiere analizar información pública argentina.
 ---
 
+## Fecha actual
+
+Antes de cualquier WebSearch que incluya año o mes, confirmá la fecha del sistema (`Bash: date` o contexto `currentDate`). Nunca asumas ni hardcodees el año — usá siempre el que reporta el sistema.
+
+---
+
 ## Comandos
 
 ### `/dato indec [indicador]`
