@@ -1,0 +1,11 @@
+{
+  "name": "dato",
+  "version": "1.0.0",
+  "description": "Datos publicos de Argentina procesables — INDEC, elecciones, catastro, justicia",
+  "skills": [
+    {
+      "name": "dato",
+      "path": "skills/dato/SKILL.md"
+    }
+  ]
+}
