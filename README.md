@@ -8,6 +8,16 @@ Datos públicos de Argentina, procesables. Estadísticas del INDEC, resultados e
 claude --plugin-dir /ruta/a/dato
 ```
 
+### OpenAI Codex
+
+No requiere instalación. Codex lee `AGENTS.md` automáticamente al abrirse en este directorio.
+
+```bash
+git clone https://github.com/kvothesson/dato ~/dato
+cd ~/dato
+codex
+```
+
 ## Comandos
 
 ### `/dato indec inflacion`
