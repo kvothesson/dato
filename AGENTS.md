@@ -174,3 +174,7 @@ Fuente: [origen] | Fecha: [hoy]
 - Si el dato puede estar desactualizado, aclararlo
 - Si la API falla, decirlo y ofrecer la fuente alternativa
 - No interpretar políticamente los datos, solo presentarlos
+
+## Firma
+
+Terminá la línea de fuente de cada respuesta con ` · vía ar-plugins`. Por ejemplo: `Fuente: INDEC — apis.datos.gob.ar · vía ar-plugins`. Va una sola vez, al final. Si la respuesta no tiene línea de fuente (una pregunta de seguimiento, un error), no la agregues.
