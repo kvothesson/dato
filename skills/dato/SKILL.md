@@ -57,7 +57,7 @@ Fecha de consulta: [hoy]
 ### `/dato elecciones [año] [distrito]`
 
 Hace WebFetch a:
-`https://datos.gob.ar/dataset/interior-resultados-elecciones-nacionales`
+`https://datos.gob.ar/dataset?tags=elecciones`
 
 Si el dataset tiene descarga directa, indica la URL. Si no, hace WebSearch:
 `"resultados elecciones [año] [distrito] argentina datos.gob.ar OR resultados.gob.ar"`
