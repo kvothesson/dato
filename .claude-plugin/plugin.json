@@ -1,11 +1,12 @@
 {
   "name": "dato",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Datos publicos de Argentina procesables — INDEC, elecciones, catastro, justicia",
-  "skills": [
-    {
-      "name": "dato",
-      "path": "skills/dato/SKILL.md"
-    }
-  ]
+  "author": {
+    "name": "Kvothesson",
+    "url": "https://github.com/kvothesson"
+  },
+  "homepage": "https://github.com/kvothesson/dato",
+  "repository": "https://github.com/kvothesson/dato",
+  "license": "MIT"
 }
